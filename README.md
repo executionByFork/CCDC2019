@@ -26,6 +26,14 @@
 
 [Create New User in AD via PowerShell (Detalied)](https://www.microsoftpressstore.com/articles/article.aspx?p=2418907) - Detailed way to create new user in AD via PowerShell.
 
+[Top 25 AD Best Security Practices](https://activedirectorypro.com/active-directory-security-best-practices/) - The top 25 best security practices for Active Directory.
+
+[Configure Windows Firewall in Windows 10/8/7](https://www.thewindowsclub.com/how-to-configure-windows-7-firewall) - How to configure Windows client firewall.
+
+[Configure Windows Firewall on Windows Server 2012](https://support.rackspace.com/how-to/managing-the-windows-server-2012-firewall/) - How to configure Windows Server 2012 firewall.
+
+[Opening ports on Windows Server 2008/2012/2016 Firewall](https://www.parallels.com/blogs/ras/configuring-windows-server-firewall-for-parallels-ras/) - How to safely and securely open ports on a Windows Firewall (example is for Parallels software but can be used for any application that ports need to be opened for.
+
 ### Linux Resources
 [monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
