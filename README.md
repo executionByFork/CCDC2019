@@ -6,6 +6,8 @@
 ### Windows Resources
 [Windows FIM](https://github.com/jordanpotti/ccdc/blob/master/WindowsScripts/WindowsFIM.py) - File integrity monitor script for windows. Requires python or Py2Exe
 
+[Windows Hardening](https://github.com/lchack/CCDC/blob/master/windowshardening.txt) Text file with some useful information on hardening windows systems. Used in a past CCDC Competition. 
+
 ### Linux Resources
 [monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
