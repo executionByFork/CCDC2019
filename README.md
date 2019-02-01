@@ -5,7 +5,7 @@
 
 [List of Cisco Router Commands](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/mcl/allreleasemcl/all-book.html) - Complete list of Cisco router commands
 
-[Configuring Simple Firewall](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/mcl/allreleasemcl/all-book.html) - Configuring simple firewall with Cisco routing commands
+[Configuring Simple Firewall](https://www.cisco.com/c/en/us/td/docs/routers/access/1800/1801/software/configuration/guide/scg/firewall.html) - Configuring simple firewall with Cisco routing commands
 
 ### Firewall Resources
 [Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software
