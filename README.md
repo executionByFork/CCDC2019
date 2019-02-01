@@ -5,4 +5,4 @@
 
 ### General Resources
 [Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki)
-[LinEnum] (https://github.com/rebootuser/LinEnum) SH script for enumerating information on a Linux machines
+[LinEnum](https://github.com/rebootuser/LinEnum) SH script for enumerating information on a Linux machines
