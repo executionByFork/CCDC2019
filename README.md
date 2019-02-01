@@ -43,3 +43,9 @@
 
 ### General Resources
 [Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki) - Lots of resources on many different things regarding defense
+
+### Other CCDC Repositories
+[DrexelCyberDragons](https://github.com/DrexelCyberDragons/CCDC2019)  
+[UT-CTF](https://github.com/UT-CTF/ccdc)  
+[logn133](https://github.com/logn133/ccdc-2019)
+[AllCCDC2019Answers](https://github.com/canadian-cyber-defence-challenge/CCDC-2019-Challenge-Answers)
