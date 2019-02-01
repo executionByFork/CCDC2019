@@ -48,4 +48,6 @@
 [DrexelCyberDragons](https://github.com/DrexelCyberDragons/CCDC2019)  
 [UT-CTF](https://github.com/UT-CTF/ccdc)  
 [logn133](https://github.com/logn133/ccdc-2019)  
-[AllCCDC2019Answers](https://github.com/canadian-cyber-defence-challenge/CCDC-2019-Challenge-Answers)
+[AllCCDC2019Answers](https://github.com/canadian-cyber-defence-challenge/CCDC-2019-Challenge-Answers)  
+[frosty939](https://github.com/frosty939/ccdc)  
+[majorwolf](https://github.com/majorwolf/MUCCDC)
