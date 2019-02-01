@@ -7,6 +7,8 @@
 
 [Configuring Simple Firewall](https://www.cisco.com/c/en/us/td/docs/routers/access/1800/1801/software/configuration/guide/scg/firewall.html) - Configuring simple firewall with Cisco routing commands
 
+[CCNA Study Guide](https://learningnetwork.cisco.com/community/certifications/ccna/ccna-exam/study-material) - Complete step by step instructions on how to configure Cisco routers and switches with labs and examples.
+
 ### Firewall Resources
 [Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software
 
