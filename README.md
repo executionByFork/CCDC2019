@@ -54,7 +54,7 @@
 [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Filesystem Integrity Checker
 
 ### General Resources
-[Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki) - Lots of resources on many different things regarding defense
+[Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki) - Lots of resources on many different things regarding defense  
 [Red Team Operations](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/pf/ms/ds-red-team-operations.pdf) - Red team operations guide
 
 ### Other CCDC Repositories
