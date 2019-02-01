@@ -9,7 +9,7 @@
 
 [CCNA Study Guide](https://learningnetwork.cisco.com/community/certifications/ccna/ccna-exam/study-material) - Complete step by step instructions on how to configure Cisco routers and switches with labs and examples.
 
-[Cisco ASA guide](https://www.cisco.com/c/en/us/td/docs/security/asa/asa95/configuration/firewall/asa-95-firewall-config.html)
+[Cisco ASA Guide](https://www.cisco.com/c/en/us/td/docs/security/asa/asa95/configuration/firewall/asa-95-firewall-config.html) - CLI Book 2 on ASA series firewalls
 
 ### Monitoring Resources
 [Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software  
