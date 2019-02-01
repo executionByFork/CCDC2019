@@ -10,7 +10,7 @@
 [CCNA Study Guide](https://learningnetwork.cisco.com/community/certifications/ccna/ccna-exam/study-material) - Complete step by step instructions on how to configure Cisco routers and switches with labs and examples.
 
 ### Monitoring Resources
-[Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software
+[Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software  
 [Artillery](https://github.com/BinaryDefense/artillery) - Moniotring and Alerting System For Windows and Linux 
 
 ### Windows Resources
