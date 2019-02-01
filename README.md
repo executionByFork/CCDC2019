@@ -8,6 +8,24 @@
 
 [Windows Hardening](https://github.com/lchack/CCDC/blob/master/windowshardening.txt) Text file with some useful information on hardening windows systems. Used in a past CCDC Competition. 
 
+[Installing/Configuring AD on WS 2016](https://blogs.technet.microsoft.com/canitpro/2017/02/22/step-by-step-setting-up-active-directory-in-windows-server-2016/) - Step by step guide on how to install and configure Active Directory for Windows Server 2016
+
+[Installing AD on WS 2012](https://support.rackspace.com/how-to/installing-active-directory-on-windows-server-2012/) - Step by step guide on how to install and configure Active Directory for Windows Server 2012
+
+[Installing AD on WS 2012](https://www.howtogeek.com/99323/installing-active-directory-on-server-2008-r2/) - Step by step guide on how to install and configure Active Directory for Windows Server 2008
+
+[Installing AD Users and Computers](https://www.technipages.com/windows-install-active-directory-users-and-computers) - How to install AD Users and Computers for remote AD configuration. This guide is for Windows 10 and Windows 8, Windows 7 and Vista work similarly, not sure about XP.
+
+[Active Directory Groups](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups) - Guide on Active Directory groups.
+
+[Create New User in AD](http://www.itingredients.com/active-directory-user-management-windows-server-2012-r2/) - Guide how to create a new user in AD via GUI.
+
+[Create New OU in AD](http://www.itingredients.com/create-ou-in-active-directory/) - How to create a new OU (Organizational Unit) in Active Directory.
+
+[Create New User in AD via PowerShell (Concise)](https://www.microsoftpressstore.com/articles/article.aspx?p=2418907) - Concise way to create new user in AD via PowerShell.
+
+[Create New User in AD via PowerShell (Detalied)](https://www.microsoftpressstore.com/articles/article.aspx?p=2418907) - Detailed way to create new user in AD via PowerShell.
+
 ### Linux Resources
 [monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
