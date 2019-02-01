@@ -7,7 +7,7 @@
 [Windows FIM](https://github.com/jordanpotti/ccdc/blob/master/WindowsScripts/WindowsFIM.py) - File integrity monitor script for windows. Requires python or Py2Exe
 
 ### Linux Resources
-[monpanel] (https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
+[monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
 [LinEnum](https://github.com/rebootuser/LinEnum) - SH script for enumerating information on a Linux machines
 
