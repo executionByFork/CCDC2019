@@ -57,7 +57,8 @@
 
 ### General Resources
 [Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki) - Lots of resources on many different things regarding defense  
-[Red Team Operations](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/pf/ms/ds-red-team-operations.pdf) - Red team operations guide
+[Red Team Operations](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/pf/ms/ds-red-team-operations.pdf) - Red team operations guide  
+[Clam Anitvirus](https://www.clamav.ac) - open source antivirus for multiple platforms
 
 ### Other CCDC Repositories
 [DrexelCyberDragons](https://github.com/DrexelCyberDragons/CCDC2019)  
