@@ -34,6 +34,8 @@
 
 [Opening ports on Windows Server 2008/2012/2016 Firewall](https://www.parallels.com/blogs/ras/configuring-windows-server-firewall-for-parallels-ras/) - How to safely and securely open ports on a Windows Firewall (example is for Parallels software but can be used for any application that ports need to be opened for.
 
+[How to set up DNS on Windows Server 2012](https://www.tomshardware.com/reviews/configure-dns-windows-server-2012,5589.html) - Step by step guide on how to set up DNS on Windows Server 2012.
+
 ### Linux Resources
 [monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
