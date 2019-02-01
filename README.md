@@ -1,5 +1,8 @@
 # CCDC Resources
 
+### Cisco Routing Resources
+[Configuring IP Access List](https://www.cisco.com/c/en/us/support/docs/security/ios-firewall/23602-confaccesslists.html) - Configuring access list to allow and deny certain services
+
 ### Firewall Resources
 [Snort IDS setup](https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref) - Packet monitoring and alerting software
 
