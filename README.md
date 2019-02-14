@@ -1,15 +1,15 @@
 # Network Assets
 
-[CentOS](assets/centos.md)
-[Debian](assets/debian.md)
-[Fedora](assets/fedora.md)
-[Palo Alto Firewall](assets/paloalto.md)
-[Phantom](assets/phantom.md)
-[Splunk](assets/splunk.md)
-[Ubuntu](assets/ubuntu.md)
-[Windows 2008 R2](assets/windows2008.md)
-[Windows 8](assets/windows8.md)
-[Windows 10](assets/windows10.md)
+[CentOS](assets/centos.md)  
+[Debian](assets/debian.md)  
+[Fedora](assets/fedora.md)  
+[Palo Alto Firewall](assets/paloalto.md)  
+[Phantom](assets/phantom.md)  
+[Splunk](assets/splunk.md)  
+[Ubuntu](assets/ubuntu.md)  
+[Windows 2008 R2](assets/windows2008.md)  
+[Windows 8](assets/windows8.md)  
+[Windows 10](assets/windows10.md)  
 
 # CCDC Resources
 
