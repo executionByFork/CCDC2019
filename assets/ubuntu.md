@@ -8,7 +8,8 @@
 #### Binary privilege escalation
 - `ls -l /bin/dash` shows that `dash` has setuid bit set
 - `sudo chmod u-s /bin/dash` to remove setuid
-- `ls -l /usr/bin/mtr` shows `mtr` has setuid set, I dont think it ships like this
+- `ls -l /usr/bin/mtr` shows setuid
+  - I dont think it ships like this
 - `sudo chmod u-s /usr/bin/mtr`
 - `ls -l /usr/lib/pt_chown` shows setuid
   - Exploit listed [here](https://packetstormsecurity.com/files/141910/Ubuntu-PT-Chown-Privilege-Escalation.html)
