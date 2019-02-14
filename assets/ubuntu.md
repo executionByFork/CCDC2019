@@ -6,15 +6,18 @@
 - `sudo kill -9 996` to kill the netcat listener
 
 #### Binary privilege escalation
-- `ls -l /bin/dash` shows that `dash` has setuid bit set
-- `sudo chmod u-s /bin/dash` to remove setuid
-- `ls -l /usr/bin/mtr` shows setuid
-  - I dont think it ships like this
-- `sudo chmod u-s /usr/bin/mtr`
-- `ls -l /usr/lib/pt_chown` shows setuid
-  - Exploit listed [here](https://packetstormsecurity.com/files/141910/Ubuntu-PT-Chown-Privilege-Escalation.html)
-- `sudo chmod u-s /usr/lib/pt_chown`
+- **`dash`**
+  - `ls -l /bin/dash` shows that `dash` has setuid bit set
+  - `sudo chmod u-s /bin/dash` to remove setuid
+- **`mtr`**
+  - `ls -l /usr/bin/mtr` shows setuid
+    - I dont think it ships like this
+  - `sudo chmod u-s /usr/bin/mtr`
+- **`pt_chown`**
+  - `ls -l /usr/lib/pt_chown` shows setuid
+    - Exploit listed [here](https://packetstormsecurity.com/files/141910/Ubuntu-PT-Chown-Privilege-Escalation.html)
+  - `sudo chmod u-s /usr/lib/pt_chown`
 
 #### Credit Card Data readable to the world
-- `ls -l` in home folder to show cc_data.txt permissions
+- `ls -l ~/cc_data.txt` to show file permissions
 - `sudo chmod o-r cc_data.txt` to remove read permissions for other accounts
