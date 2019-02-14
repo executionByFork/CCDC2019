@@ -20,7 +20,8 @@
   - `sudo chmod u-s /usr/lib/pt_chown`
 
 #### Credit Card Data readable to the world
-- EVERY user's home directory has a `cc_data.txt` file that anyone can read (?? wtf ??)
+- **EVERY** user's home directory has a `cc_data.txt` file that anyone can read (?? wtf ??)
 - `ls -l ~/cc_data.txt` to show file permissions
 - `sudo find /home -name "*cc_data*" | xargs sudo chmod o-r`
   - finds every one of these files and removes read permissions for `other` accounts
+- Can we just delete them?
