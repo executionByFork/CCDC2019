@@ -10,6 +10,9 @@
 - `sudo chmod u-s /bin/dash` to remove setuid
 - `ls -l /usr/bin/mtr` shows `mtr` has setuid set, I dont think it ships like this
 - `sudo chmod u-s /usr/bin/mtr`
+- `ls -l /usr/lib/pt_chown` shows setuid
+  - Exploit listed [here](https://packetstormsecurity.com/files/141910/Ubuntu-PT-Chown-Privilege-Escalation.html)
+- `sudo chmod u-s /usr/lib/pt_chown`
 
 #### Credit Card Data readable to the world
 - `ls -l` in home folder to show cc_data.txt permissions
