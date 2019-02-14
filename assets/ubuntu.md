@@ -1,4 +1,5 @@
-# Ubuntu
+# Ubuntu 12.04.2 LTS
+### 3.5.0-23-generic
 
 #### Close `netcat` backdoor
 - `sudo netstat -lpt | less` to see all tcp listening ports
