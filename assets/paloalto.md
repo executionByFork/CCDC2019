@@ -1,5 +1,7 @@
 # Palo Alto Firewall
 
+![nmapscan](./images/PaloAlto.png)
+
 #### Setup Network Objects
 - Login to Palo Alto web GUI at the IP address `172.20.242.150`
 - Add an Address Object for each individual IP on the network
