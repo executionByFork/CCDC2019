@@ -7,6 +7,8 @@
 - Use these to restrict communications per machine for max granularity
 
 #### Firewall Rules
-| Name                 | src Zone             | src Addr | dest Zone | dest Addr      | App | Service         | 
-|----------------------|----------------------|----------|-----------|----------------|-----|-----------------| 
-| internal DNS routing | internal,public,user | any      | user      | ubuntu,Win2008 | any | DNS-TCP,DNS-UDP | 
+| Name                 | Action | src Zone               | src Addr | dest Zone | dest Addr       | App | Service          | 
+|----------------------|--------|------------------------|----------|-----------|-----------------|-----|------------------| 
+| DROP ALL             | drop   | any                    | any      | any       | any             | any | any              | 
+| internal DNS routing | allow  | internal, public, user | any      | user      | ubuntu, Win2008 | any | DNS-TCP, DNS-UDP | 
+
