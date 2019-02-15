@@ -62,6 +62,8 @@
 
 [How to set up DNS on Windows Server 2012](https://www.tomshardware.com/reviews/configure-dns-windows-server-2012,5589.html) - Step by step guide on how to set up DNS on Windows Server 2012.
 
+[How to generate random password and change AD Password in PowerShell](https://www.experts-exchange.com/articles/18859/Changing-users-password-with-Power-Shell-and-generate-a-random-password.html) - Resource I used to help write my script.
+
 ### Linux Resources
 [monpanel](https://github.com/JaminB/CCDC/blob/master/monpanel) - Monitoring panel for linux. Monitors logins, active connections, cronjobs, etc. I think this should be running at all times on the linux machines.
 
