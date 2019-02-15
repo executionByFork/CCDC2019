@@ -4,7 +4,7 @@
 [Debian](assets/debian.md)  
 [Fedora](assets/fedora.md)  
 [Palo Alto Firewall](assets/paloalto.md)  
-[Palo Alto Firewall Upgrade CLI](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000CloaCAC) - Shows how to upgrade Palo Alto from CLI
+[Palo Alto Firewall Upgrade CLI](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000CloaCAC)
 [Phantom](assets/phantom.md)  
 [Splunk](assets/splunk.md)  
 [Ubuntu](assets/ubuntu.md)  
