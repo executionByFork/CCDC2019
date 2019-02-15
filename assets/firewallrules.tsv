@@ -1,0 +1,2 @@
+Name	src Zone	src Addr	dest Zone	dest Addr	App	Service
+internal DNS routing	internal,public,user	any	user	ubuntu,Win2008	any	DNS-TCP,DNS-UDP
