@@ -28,6 +28,3 @@
 - `sudo find /home -name "*cc_data*" | xargs sudo chmod o-r`
   - finds every one of these files and removes read permissions for `other` accounts
 - Can we just delete them?
-
-#### nosleep script
-- Run [this script](./nosleep) when leaving the system, to avoid having to reboot at the black screen
