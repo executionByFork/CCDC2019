@@ -2,6 +2,9 @@
 
 ![nmapscan](./images/PaloAlto.png)
 
+#### Upgrade Palo Alto Software
+- Use [these instructions](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000CloaCAC)
+
 #### Setup Network Objects
 - Login to Palo Alto web GUI at the IP address `172.20.242.150`
 - Add an Address Object for each individual IP on the network
